@@ -2,7 +2,7 @@
 
 ## I'm a Coder, Frontend Developer, Full-Stake Developer, and Learner!!
 
-- ✔️ I just work with currently project: 📁 [BlueStuck][www.bluckstuck.com]!
+- ✔️ I worked of currently social-media project: 📁 [BlueStuck] or [www.bluckstuck.com]!
 - ✔️ I knowCoding, Problem Solving Skill
 - ✔️ I knowCore PHP and LaravelFramework
 - ‍✔️ I have working with cPaneland MySQL databases
