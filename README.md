@@ -1,4 +1,4 @@
-### 👨 Hi there, I'm Ijtihad Islam Emon - CEO/Developer BlueStuck👋
+### 👨 Hi there, I'm Ijtihad Islam Emon - CEO/Developer Bluestuck.com👋
 
 ## I'm a Coder, Frontend Developer, Full-Stake Developer, and Learner!!
 
