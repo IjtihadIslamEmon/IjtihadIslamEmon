@@ -1,8 +1,5 @@
 ### 👨 Hi there, I'm Ijtihad Islam Emon - aka [BlueStuck][www.bluestuck.com] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/IjtihadEmon?style=social)](https://twitter.com/IjtihadEmon)
-[![Facebook Follow](https://img.shields.io/twitter/follow/IjtihadEmon?style=social)](https://twitter.com/IjtihadEmon)
-
 ## I'm a Coder, Frontend Developer, Full-Stake Developer, and Learner!!
 
 - ✔️ I just work with currently project: 📁 [BlueStuck][www.bluckstuck.com]!
