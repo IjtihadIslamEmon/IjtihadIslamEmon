@@ -24,7 +24,8 @@
 ### 🔰 Connect with me:
 
 [<img align="left" alt="ijtihadislam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="ijtihadislam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ijtihadislam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="ijtihadislam | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][Behance]
 <br />
 
 ### 🌐 Languages and Tools Experience:
